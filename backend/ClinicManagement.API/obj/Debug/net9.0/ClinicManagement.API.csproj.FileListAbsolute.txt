@@ -114,3 +114,4 @@ D:\Projects\ClinicManagementSystem\backend\ClinicManagement.API\obj\Debug\net9.0
 D:\Projects\ClinicManagementSystem\backend\ClinicManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\ClinicManagementSystem\backend\ClinicManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\ClinicManagementSystem\backend\ClinicManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ClinicManagementSystem\backend\ClinicManagement.API\obj\Debug\net9.0\ClinicManagement.API.sourcelink.json
